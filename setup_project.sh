@@ -35,7 +35,7 @@ echo "Initialized Node.js project"
 
 # Install required packages
 npm install express express-session mongoose method-override path dotenv ejs morgan bcrypt > /dev/null
-echo "Installed dependencies: express, express-session, mongoose, method-override, path, dotenv, ejs, morgan, and bcrypt"
+echo "Installed dependencies: express, express-session, mongoose, etc."
 
 
 # Create folders
