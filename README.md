@@ -49,8 +49,7 @@ project-directory/
 ## 🚀 How to Use
 
 ```bash
-chmod +x setup.sh
-./setup.sh
+bash setup_project.sh
 ```
 
 Then follow the prompt to enter your project folder name. The script will do the rest.
@@ -60,6 +59,4 @@ Then follow the prompt to enter your project folder name. The script will do the
 - Make sure you have **Node.js and npm** installed before running the script.
 - Update the `.env` file with your own **MongoDB connection string** and **session secret**.
 
-## 📬 Feedback
 
-Feel free to open issues or submit PRs if you'd like to improve the script!
